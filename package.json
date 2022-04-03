@@ -25,11 +25,11 @@
     "method-override": "^3.0.0",
     "mongoose": "^5.13.6",
     "morgan": "^1.10.0",
+    "nodemon": "^2.0.15",
     "verror": "^1.10.0"
   },
   "devDependencies": {
     "@babel/core": "^7.15.0",
-    "@babel/register": "^7.15.3",
-    "nodemon": "^2.0.12"
+    "@babel/register": "^7.15.3"
   }
 }
